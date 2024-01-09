@@ -1,5 +1,5 @@
 # Interactive-Rating-Component
-Interactive Rating Component typically consists of visually intuitive elements that users can interact with to express their level of satisfaction or dissatisfaction.
+"🌟 Interactive Rating Component 🌟: A user-friendly and customizable rating system for collecting and displaying user feedback".
 
 # Site Link
 https://rating-component-123.netlify.app/
